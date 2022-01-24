@@ -11,7 +11,7 @@ header {
     justify-content: space-between;
 }
 
-headerLinks {
+.headerLinks {
     display: flex;
     gap: 12px;
 }
