@@ -9,3 +9,8 @@ header {
     display: flex;
     justify-content: space-between;
 }
+
+headerLinks {
+    display: flex;
+    gap: 12px;
+}
