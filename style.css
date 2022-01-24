@@ -1,6 +1,6 @@
 body {
     font-family: Roboto, "Times New Roman", sans-serif;
-    padding: 10px 50px;
+    margin: 10px 50px;
 }
 
 header {
@@ -13,5 +13,6 @@ header {
 
 .headerLinks {
     display: flex;
+    justify-content: space-between;
     gap: 12px;
 }
